@@ -20,4 +20,5 @@
       
 ## Game Preview
 
-https://user-images.githubusercontent.com/96294811/147884622-657a87f8-840e-4aab-875d-a67f2a70ccc6.mp4
+https://user-images.githubusercontent.com/96294811/147884687-e4d37606-a999-4331-882c-5e6e6f6d22e3.mp4
+
